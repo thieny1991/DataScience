@@ -8,7 +8,7 @@ from sklearn.model_selection import KFold
 from sklearn.preprocessing import MinMaxScaler
 # from sklearn.neural_network import
 
-#data
+#Load dataset into pandas dataframe
 dataset = pd.read_csv('cmc.data ')
 dataset.columns = ['wife_age', 'wife_education', 'husband_education', 'number_of_children', 'wife_religion',
               'is_wife_working', 'husband_occupation', 'standard_of_living',
@@ -26,7 +26,8 @@ X = scaler.fit_transform(X)
 # print(dataset)
 
 
-#Correlation heatmap
+# Correlation heatmap
+# For checking the correlation of each feature with the class feature
 def correlation_heatmap(data):
     correlations = data.corr()
     # plt.subplots(figsize=(9, 9))
@@ -41,7 +42,10 @@ def correlation_heatmap(data):
 
 
 
-#Check dataset balance or not
+# Check dataset balance or not
+# If dataset is not balance and training produces a low accuracy,
+# we will go back to dataset and perform over/under sampling technique.
+# Then, processing the training again to improve the accuracy.
 class1 = 0
 class2 = 0
 class3 = 0
@@ -59,7 +63,9 @@ print('Class 3: ', class3)
 print('Total row: ', class1 + class2 + class3)
 
 
-# #prepare cross validation
+# Prepare cross validation
+# Split dataset into 10: 9 training + 1 test set each.
+# KFold configuration: split 10, shuffle = True, seed = 1.
 class1 = 0
 class2 = 0
 class3 = 0
