@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.model_selection import KFold
 from sklearn.preprocessing import MinMaxScaler
-from sklearn.neural_network import 
+#from sklearn.neural_network
 
 #data
 dataset = pd.read_csv('cmc.data ')
