@@ -1,10 +1,12 @@
+# Author: Thuy Nguyen
+
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
 import seaborn as sns
+import matplotlib.pyplot as plt
 from sklearn.model_selection import KFold
 from sklearn.preprocessing import MinMaxScaler
-from sklearn.neural_network import
+# from sklearn.neural_network import
 
 #data
 dataset = pd.read_csv('cmc.data ')
