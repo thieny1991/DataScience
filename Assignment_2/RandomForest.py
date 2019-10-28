@@ -1,4 +1,4 @@
-# Author: Giai Tran
+# Author: Syed
 
 import pandas as pd
 import numpy as np
@@ -29,25 +29,6 @@ Y = dataset.iloc[:, 9]
 scaler = MinMaxScaler(feature_range=(0, 1))
 X = scaler.fit_transform(X)
 
-# Check dataset balance or not
-# If dataset is not balance and training produces a low accuracy,
-# we will go back to dataset and perform over/under sampling technique.
-# Then, processing the training again to improve the accuracy.
-class1 = 0
-class2 = 0
-class3 = 0
-for row in dataset.iloc[:, 9]:
-    if row == 1:
-        class1 +=1
-    elif row == 2:
-        class2 +=1
-    elif row == 3:
-        class3 +=1
-
-print('Class 1: ', class1)
-print('Class 2: ', class2)
-print('Class 3: ', class3)
-print('Total row: ', class1 + class2 + class3)
 
 #Use KFold to split dataset into 10 subset which includes 1 training and 1 testing set
 kf = KFold(n_splits=10, random_state=1, shuffle=True)
