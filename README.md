@@ -1,6 +1,6 @@
 
 # CMC-Classification
-This project is a part of Data Science I- COSC3337-Group4 
+This project is a part of Data Science I- COSC3337-Group3
 (https://github.com/thieny1991/DataScience).
 
 #### -- Project Status: Active
@@ -20,7 +20,7 @@ The purpose of this project is to apply different classification techniques to a
 * Inferential Statistics
 * Machine Learning
 * Data Visualization
-* Newral Networks
+* Neural Networks
 * Grid Search technique for hyperparameter tuning
 * Support Vector Machines
 * KNN
