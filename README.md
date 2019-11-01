@@ -41,7 +41,9 @@ The purpose of this project is to apply different classification techniques to a
     problem is to predict the current contraceptive method choice 
     (no use, long-term methods, or short-term methods) of a woman based 
     on her demographic and socio-economic characteristics.
-    Based on the given data set, our project will go through all neccessary steps to analize  the 4 listed classification methods and compare their results in order to come up with the best fit classification.   
+    Based on the given data set, our project will go through all neccessary 
+    steps to analize the 4 listed classification methods and compare their results 
+    in order to come up with the best fit classification.   
 
 ## Needs of this project
 - data exploration
