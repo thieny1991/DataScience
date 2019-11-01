@@ -59,10 +59,10 @@ The purpose of this project is to apply different classification techniques to a
 ## Contributing DS Members
 |Name     |  Slack Handle   | 
 |---------|-----------------|
-|Y Nguyen | https://github.com/thieny1991   | @thieny1991   |  
-|Syed Alam| https://github.com/mubashiralam | @mubashiralam    |
-|GiaiTran | https://github.com/GiaiTran |     @GiaiTran    |                     
-|Thuy Nguyen | https://github.com/milasido | @milasido    |
+|Y Nguyen | https://github.com/thieny1991   | @thieny1991   |  *import data, check data quality, SVM,tesing program, write report|
+|Syed Alam| https://github.com/mubashiralam | @mubashiralam    | *Random Forest,PPT design,write report |
+|GiaiTran | https://github.com/GiaiTran |     @GiaiTran    |  *Team lead, preprocessing data, newral network,write report|                   
+|Thuy Nguyen | https://github.com/milasido | @milasido    | *KNN, report design, testing program,write report|
 
 
 ## Contact
