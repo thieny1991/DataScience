@@ -67,10 +67,10 @@ The purpose of this project is to apply different classification techniques to a
 ## Contribution detail:
 |Name     |  Slack Handle   |
 |---------|-----------------|
-|Y Nguyen | import data, check data quality, SVM,tesing program, write report | @thieny1991   |
-|Syed Alam|Random Forest,PPT design,write report  | @mubashiralam    |
-|GiaiTran | Team lead, preprocessing data, newral network,write report |     @GiaiTran    |                 
-|Thuy Nguyen | KNN, report design, testing program,write report | @milasido    |
+|Y Nguyen | data quality, SVM,tesing program,graph visualization, write report | @thieny1991   |
+|Syed Alam|Random Forest,PPT design, testing program, write report  | @mubashiralam    |
+|GiaiTran | Team lead, research methods, preprocessing data, Neural Network, write report|     @GiaiTran    |                 
+|Thuy Nguyen | KNN, report design, graph visualization, testing program,write report | @milasido    |
 
 ## Contact
 * giai.tranluong@gmail.com
