@@ -8,13 +8,14 @@ This project is a part of Data Science I- COSC3337-Group3
 ## Project Intro/Objective
 The purpose of this project is to apply different classification techniques to a chalange dataset, to compare the result, to potentially enhance the accuracy of the learnt models via selecting better parameters/ preprocessing/ using kernels/ incorportating background knowledge and to summarize our findings in a report. The challenge data set that our group will work on is Contraceptive Method Choice data set (https://archive.ics.uci.edu/ml/datasets/Contraceptive+Method+Choice)
 ### Steps:
-    1. Preprocessing
-    2. Data Generation
-    3. Data Exploration
-    4. Neural Networks Classifier
-    5. SVM Classifier
-    6. KNN Classifier
-    7. Random Forest Classifier
+    1. Data Exploration
+    2. Data Quality and Preprocessing
+    3. Neural Networks Classifier
+    4. SVM Classifier
+    5. KNN Classifier
+    6. Random Forest Classifier
+    7. Comparison
+    8. Conclusion
 
 ### Methods Used
 * Inferential Statistics
@@ -56,17 +57,13 @@ The purpose of this project is to apply different classification techniques to a
 5. Follow setup [instructions](Link to file)
 
 ## Contributing DS Members
-
-**Team Leads (Contacts) : Y Nguyen (https://github.com/thieny1991)**
-
-#### Other Members:
-
 |Name     |  Slack Handle   | 
 |---------|-----------------|
-|Syed Alam
-|GiaiTran | https://github.com/GiaiTran |     @GiaiTran    |
-|Thuy Nguyen | https://github.com/milasido |     @milasido    |
+|Y Nguyen | https://github.com/thieny1991   | @thieny1991   |  
+|Syed Alam| https://github.com/mubashiralam | @mubashiralam    |
+|GiaiTran | https://github.com/GiaiTran |     @GiaiTran    |                     
+|Thuy Nguyen | https://github.com/milasido | @milasido    |
 
 
 ## Contact
-* Feel free to contact team leads with any questions or if you are interested in contributing!
+* 
