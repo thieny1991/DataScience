@@ -64,6 +64,15 @@ The purpose of this project is to apply different classification techniques to a
 |GiaiTran | https://github.com/GiaiTran |     @GiaiTran    |                 
 |Thuy Nguyen | https://github.com/milasido | @milasido    |
 
+## Contribution detail:
+|Name     |  Slack Handle   |
+|---------|-----------------|
+|Y Nguyen | import data, check data quality, SVM,tesing program, write report | @thieny1991   |
+|Syed Alam|Random Forest,PPT design,write report  | @mubashiralam    |
+|GiaiTran | Team lead, preprocessing data, newral network,write report |     @GiaiTran    |                 
+|Thuy Nguyen | KNN, report design, testing program,write report | @milasido    |
 
 ## Contact
-* 
+* giai.tranluong@gmail.com
+* thieny1991@yahoo.com
+
