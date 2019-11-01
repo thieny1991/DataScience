@@ -47,7 +47,8 @@ The purpose of this project is to apply different classification techniques to a
 - data exploration
 - data processing/cleaning
 - classification
-- writeup/reporting
+- write up/reporting
+- presentation
 
 ## Getting Started
 
